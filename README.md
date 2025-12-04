@@ -1,7 +1,7 @@
  MARVELLOUS PACKER AND UNPACKER APPLICATION
 --------------------------------------------------
 
-    Author : Sakshi Pankaj Borhade
+    Author : Divya Santosh Date 
     Created On : 21/07/2025
     Language : Java
     Input : Files from a directory (Packer), Packed file (Unpacker)
